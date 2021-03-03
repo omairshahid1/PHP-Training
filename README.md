@@ -2,7 +2,7 @@
 
 <b>Scope</b>:
 - Standards definition
-- Unit testing - Izza
+- Unit testing
 - Static analyzer
 - Manual code review checklist
 - Qualified code reviewers

@@ -1,4 +1,4 @@
-# PHP_Training
+# PHP Training
 
 <b>Scope</b>:
 - Standards definition

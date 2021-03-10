@@ -38,6 +38,19 @@ LARAVEL_ECHO_PORT=6001
 
 npm run dev
 
+**To run this project into your system you need to follow the following instructions**
+
+Download or clone the project
+
+Run Npm install
+
+Run migration
+
+Install redis on local and start it
+
+Start the laravel-echo-server
+
+
 
 **Remember**
 

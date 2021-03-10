@@ -35,8 +35,10 @@ LARAVEL_ECHO_PORT=6001
 **3- We need to start redis-client and server and laravel echo server**
 
 **4- At last we need to run**
+
 npm run dev
 
 
 **Remember**
+
 To run all this system on local we need to install redis locally

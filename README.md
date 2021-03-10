@@ -1,4 +1,5 @@
 **1- Things that we need to install**
+
 composer require predis/predis
 npm install -g laravel-echo-server
 npm install laravel-echo
